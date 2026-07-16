@@ -1,0 +1,6 @@
+{
+  "name": "Sigma Magma Systems",
+  "description": "Professional corporate website for Sigma Magma Systems, a leading start-up in Abuja, Nigeria, focusing on research and development of future systems, autonomous robots, energy systems, real estate, AI, and IoT solutions.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
